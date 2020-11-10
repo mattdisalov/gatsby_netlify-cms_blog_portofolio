@@ -5,8 +5,10 @@ const ContactPage = () => {
     return(
         <Layout>
             <h1>Contact</h1>
-            <p>This is where the contact details will be when I add them later on.</p>
-            <p>Follow me: <a href="https://twitter.com/" target="_blank">Twitter</a></p>
+            <p>Here's how you can get in touch with me.</p>
+            <p><a href="mailto: mattdisalov@gmail.com" target="_blank" rel="noreferrer">E-mail me</a></p>
+            <p><a href="https://www.linkedin.com/in/matt-disalov-107963197/" target="_blank" rel="noreferrer">Linkedin</a></p>
+            <p><a href="https://github.com/mattdisalov" target="_blank" rel="noreferrer">Github</a></p>
         </Layout>
     )
 }

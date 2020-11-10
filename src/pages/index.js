@@ -6,7 +6,7 @@ const IndexPage = () => {
   return(
     <Layout>
       <h1>Hello</h1>
-      <h2>I'm Matt, a full stack developer living in Fort Lauderdale.</h2>
+      <h2>I'm Matt, a software developer. This is my blog.</h2>
       <p>Need a developer? <Link to="/contact">Contact Me</Link></p>
     </Layout>
   )
