@@ -16,6 +16,7 @@
   "dependencies": {
     "gatsby": "^2.24.83",
     "gatsby-plugin-netlify-cms": "^4.3.17",
+    "gatsby-plugin-react-helmet": "^3.3.14",
     "gatsby-plugin-sass": "^2.3.19",
     "gatsby-plugin-sharp": "^2.6.43",
     "gatsby-remark-images": "^3.3.39",
@@ -25,7 +26,8 @@
     "netlify-cms-app": "^2.13.2",
     "node-sass": "^4.14.1",
     "react": "^16.14.0",
-    "react-dom": "^16.14.0"
+    "react-dom": "^16.14.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "env-cmd": "^10.1.0",

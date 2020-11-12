@@ -5,6 +5,7 @@ module.exports = {
     description: 'Blog Site'
   },
   plugins: [
+    'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
       resolve: 'gatsby-source-filesystem',
