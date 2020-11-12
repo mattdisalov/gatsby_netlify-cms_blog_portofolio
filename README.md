@@ -1,3 +1,8 @@
+Demo: https://vibrant-jones-32d23b.netlify.app/
+
+A Blog site created using Gatsby with Netlify CMS. Blog posts can be easily written in Netlify CMS. New blog posts dynamically generate a new page using markdown data from GraphQL or Netlify CMS data and a blog post page template. Header and Footer were created as React shared components and they use site Metadata from GraphQL to display basic information on the page layout component. There is a custom 404 page and the site’s head is managed by React Helmet. The site is styled using SCSS modules.
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
