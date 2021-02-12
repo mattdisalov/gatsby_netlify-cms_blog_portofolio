@@ -37,7 +37,7 @@ const Header = () => {
                         <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="/contact">Contact</Link>
                     </li>
                     <li>
-                        <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} to="https://vibrant-jones-32d23b.netlify.app/admin/#/collections/blog">Admin</Link>
+                        <Link className={headerStyles.navItem} activeClassName={headerStyles.activeNavItem} target="_blank" to="https://vibrant-jones-32d23b.netlify.app/admin/#/collections/blog">Admin</Link>
                     </li>
                 </ul>
             </nav>
