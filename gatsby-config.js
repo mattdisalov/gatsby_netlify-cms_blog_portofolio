@@ -10,8 +10,8 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        path: `${__dirname}/static/assets`,
-        name: 'images',
+        name: 'src',
+        path: `${__dirname}/src/`
       }
     },
     'gatsby-plugin-netlify-cms',
