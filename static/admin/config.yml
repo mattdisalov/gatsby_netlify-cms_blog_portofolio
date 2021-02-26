@@ -11,6 +11,8 @@ collections:
     folder: "src/posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    editor:
+      preview: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
