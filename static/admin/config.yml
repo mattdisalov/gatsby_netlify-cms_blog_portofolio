@@ -9,6 +9,7 @@ collections:
     label: "Blog"
     label_singular: 'Blog'
     folder: "src/posts"
+    create: true
     path: '{{slug}}/index'
     media_folder: ''
     public_folder: ''
