@@ -1,14 +1,15 @@
 ---
 title: "The Great Gatsby Website"
-date: "2020-10-21"
+date: October 21, 2020 8:15 PM
 ---
 
 I'm just practicing building a gatsby website!
 
-![Grass](./grass.png)
+![Gatsby](./gatsby.png)
 
 ## Topics Covered
 
 1. Gatsby
 2. GraphQL
 3. React
+4. Netlify CMS
